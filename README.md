@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafi Mazumder</h1>
 <h3 align="center">Application And Web Developer with Laravel</h3>
 
-- 🔭 International IT Associasion Of Bangladesh [Business Profile](https://www.businesseprofile.com/)
+- 🔭 International IT Association Of Bangladesh [Business Profile](https://www.businesseprofile.com/)
 
-- 🌱 I’m currently learning **React,viewJs,express**
+- 🌱 I’m currently learning **React,Vuejs ,express**
 
-- 🔭 International IT Associasion Of Bangladesh [School Manegement System](https://nedubd.com/)
+- 🔭 International IT Association Of Bangladesh [School Management System](https://nedubd.com/)
 
 - 📫 How to reach me **rafimazumder087@gmail.com**
 
